@@ -1,6 +1,6 @@
 #  CCNA 200-301 Notes and Labs
 
-**Written by Walid**
+**Written by WALID ALHAJ HAMED**
 
 This repository contains my personal CCNA 200-301 study notes and lab configurations.  
 I’m documenting everything I learn, step by step, to build real networking skills.
