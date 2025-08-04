@@ -4,11 +4,11 @@ I’m currently studying for the CCNA exam. This checklist follows the official 
 
 ## 1.0 Network Fundamentals
 
-- [ ] 1.1 Explain the role and function of network components
-- [ ] 1.2 Describe characteristics of network topology architectures
-- [ ] 1.3 Compare physical interface and cabling types
-- [ ] 1.4 Identify interface and cable issues
-- [ ] 1.5 Compare TCP to UDP
+- [X] 1.1 Explain the role and function of network components
+- [X] 1.2 Describe characteristics of network topology architectures
+- [X] 1.3 Compare physical interface and cabling types
+- [X] 1.4 Identify interface and cable issues
+- [X] 1.5 Compare TCP to UDP
 - [ ] 1.6 Configure and verify IPv4 addressing and subnetting
 - [ ] 1.7 Describe the need for private IPv4 addressing
 - [ ] 1.8 Configure and verify IPv6 addressing and prefix
