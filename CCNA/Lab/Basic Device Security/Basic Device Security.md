@@ -20,37 +20,38 @@ Practice securing Cicso devices ny settings hostname ,password ,configuring both
 ### Set name for devices
 - First enter configuration mode on both
 - second set a hostname 
-  - ```bash 
+```bash 
   enable or {en}
   configure terminal or {config t}
   hostname (name) 
-
+```
 ### Set Unencrypted Enable Password
-- ```bash 
+```bash 
 en 
 config t 
 enable password (password)
-
+```
 ###  Exit and Test the Password
-- ```bash
+```bash
 exit 
 exit
+```
 ### View Password in Running Config
-- ```bash
+```bash
 show running-config 
-
+```
 ![topology](./Running%20config%20v.png)
 ###  Encrypt All Passwords (Optional Encryption for Line Passwords)
-- ```bash
+```bash
 config t
 service password-encryption
-
+```
 ### Set a More Secure Encrypted Password
-- ```bash
+```bash
 enable secret Cisco
-
+```
 ### Save the Configuration
-- ```bash
+```bash
 copy running-config startup-config
 
 ```
